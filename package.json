@@ -1,0 +1,27 @@
+{
+  "name": "flecko.app",
+  "version": "0.0.1",
+  "description": "Flecko.app package - Easily create amazing bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flecko-App/npm.git"
+  },
+  "keywords": [
+    "flecko",
+    "bots",
+    "socialmedia"
+  ],
+  "author": "Flecko APP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flecko-App/npm/issues"
+  },
+  "homepage": "https://github.com/Flecko-App/npm#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.5"
+  }
+}
